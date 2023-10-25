@@ -1,0 +1,5 @@
+<launch>
+  <node name="your_node_name" pkg="ros_digit" type="digit_inference_cnn.py" output="screen">
+    <!-- Add any parameters or remaps if needed -->
+  </node>
+</launch>
